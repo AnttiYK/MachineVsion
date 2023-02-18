@@ -1,0 +1,16 @@
+function p = precision(predicted, gt)
+%AUTHOR: Antti Yli-Kujala
+%STUDENT NUMBER: e123107
+% This function computes the precision of a classifier
+% INPUT
+% predicted: Nx1 binary array of predicted labels
+% gt: Nx1 binary array of gt
+% OUTPUT
+% p: precision value
+
+tp = 0;
+fn = 0;
+for i = 1 : length(predicted)
+   i 
+end
+end
